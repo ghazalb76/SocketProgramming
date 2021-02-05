@@ -1,0 +1,2 @@
+# Socket Programming 
+This project is a Client/Server communication via Socket Programming which server waits for clients to connect to it. After establishment of connections, client1 sends a matrix to server and server sends it to client2, client2 multiplies the matrix by itself and returns it to server. Server prints the received matrix and send it to client1 and finally client1 prints it.
